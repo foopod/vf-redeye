@@ -38,6 +38,9 @@ h1{
 p{
     font-size: 250%;
 }
+td,tr{
+    font-size: 125%;
+}
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {

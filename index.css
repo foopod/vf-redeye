@@ -6,6 +6,7 @@
 a,
 a:focus,
 a:hover {
+    text-decoration: none;
   color: #e60000;
 }
 
@@ -36,17 +37,14 @@ h1{
     font-size: 500%;
 }
 p{
-    font-size: 250%;
-}
-td,tr{
-    font-size: 125%;
+    font-size: 180%;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {
   display: table;
   width: 60%;
-    margin-left: auto;
+  margin-left: auto;
   height: 100%; /* For at least Firefox */
   min-height: 100%;
 
